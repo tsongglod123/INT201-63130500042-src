@@ -2,7 +2,7 @@
 
 1. using // to comment as a single line comment.
 2. using /*...*/ to comment as multiple line or block comments.
-3. variables, funtion names, and operators are all case sensitive.
+3. variables, function names, and operators are all case sensitive.
 4. Statements in ECMAScript are terminated by a semicolon.
 5. Even semicolon is not required but not recommended to omit the semicolon.
 6. Identifiers is the name of a variable, function, property, or function argument.

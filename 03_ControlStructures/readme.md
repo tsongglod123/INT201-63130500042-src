@@ -23,7 +23,7 @@
 
 # Loop Statements
 
-1. A while statement repeates its statements as long as a condition evaluates to true.
+1. A while statement repeats its statements as long as a condition evaluates to true.
    while (condition)
    statement
 2. The do...while statement repeats until a condition evaluates to false.
