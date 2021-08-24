@@ -25,8 +25,8 @@ let multiplyResult = operator(5, 3, multiply);
 console.log(`add result3 : ${addResult3}`);
 console.log(`multiply result: ${multiplyResult}`);
 
-const average = (a, b, fx) => {
-  return fx(a, b)/2
-}
-let avgResult = average(10, 20, add);
-console.log(`avg result: ${avgResult}`);
+// function average(n1, n2, fn) {
+//   return fn(n1, n2) / 2
+// }
+// let avgResult = average(10, 20, add)
+// console.log(`avg result: ${avgResult}`)
